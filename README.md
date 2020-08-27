@@ -28,7 +28,7 @@
 
 
 
-# Designing Database
+# :page_facing_up: DB設計
 
 ## users table
 |Column|Type|Options|
