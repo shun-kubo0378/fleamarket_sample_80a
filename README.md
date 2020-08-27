@@ -5,6 +5,7 @@
 - メルカリクローンのフリーマーケットサイトです。
 - TECH::CAMP 80期短期集中コースAチームで作成。
 - 作成期間 2020/8/4 ~ 2020/8/28
+ ![top_page](https://gyazo.com/8715147d43d55423ef3d9e599580dbda)
 
 ## :paperclip: 主な使用言語
 <a><img src="https://user-images.githubusercontent.com/39142850/71774533-1ddf1780-2fb4-11ea-8560-753bed352838.png" width="70px;" /></a> <!-- rubyのロゴ -->
